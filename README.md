@@ -1,1 +1,1 @@
-# git_test
+it is the first repo of mine
